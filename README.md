@@ -1,1 +1,1 @@
-![](imagenes/Pantalla 1.jpg)
+![](Imagenes/Pantalla 1.jpg)
